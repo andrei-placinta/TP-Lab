@@ -1,3 +1,6 @@
+/*
+3. Sa se implementeze binary search sub forma recursiva
+*/
 #include <stdio.h>
 #include <stdlib.h>
 
